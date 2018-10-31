@@ -1,0 +1,13 @@
+MDN 开发社区 web文档
+https://developer.mozilla.org/zh-CN/
+
+MDN javascript开发文档
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+
+移动端 materializecss  
+http://www.materializecss.cn/about.html
+
+
+移动端调试神器 eruda npm 地址
+
+https://www.npmjs.com/package/eruda
